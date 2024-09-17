@@ -29,3 +29,6 @@ src/main/resources/mixins.*.json
 *.bat
 *.DS_Store
 !gradlew.bat
+!/ExampleMod1.7.10.iws
+!/ExampleMod1.7.10.ipr
+!/ExampleMod1.7.10.iml

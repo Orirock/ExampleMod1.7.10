@@ -1,7 +1,6 @@
 package com.myname.mymodid;
 
 import cpw.mods.fml.common.event.*;
-
 public class ClientProxy extends CommonProxy {
 
     // preInit "Run before anything else. Read your config, create blocks, items,
